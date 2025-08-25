@@ -51,9 +51,7 @@
 
 -  *"Code, football, and creativity: the real Moroccan hat-trick!"* ⚽  
 - 🧑‍🚀 Currently hacking on **football analytics & e-commerce SaaS**.  
--  **Now vibing to:**  
-  > [![](https://img.shields.io/badge/Spotify-Gnawa%20%7C%20The%20Atlas%20Collective-green?logo=spotify)](https://open.spotify.com/track/6A1PurU2W1jyzkfXcJUswE)  
--  That Gnawa groove always gets the creativity flowing.  
+- 🎧 Sometimes coding while vibing to [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/intl-fr/track/6A1PurU2W1jyzkfXcJUswE#login)  
 
 ---
 
